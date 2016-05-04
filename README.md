@@ -1,6 +1,7 @@
 # saz
 css3 cross browser mixins for SASS
-### useage
+#### useage
+import in your SASS file as follows...
 ````
 @import 'saz'
 ````
