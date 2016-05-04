@@ -1,0 +1,25 @@
+{
+  "name": "saz",
+  "version": "1.0.0",
+  "description": "Sass mixins for css3 cross browser",
+  "main": "_saz.sass",
+  "scripts": {
+    "test": "@import 'saz'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozluy/saz.git"
+  },
+  "keywords": [
+    "SASS",
+    "CSS3",
+    "Cross-Browser",
+    "Mixin"
+  ],
+  "author": "Yusuf Özlü",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozluy/saz/issues"
+  },
+  "homepage": "https://github.com/ozluy/saz#readme"
+}
